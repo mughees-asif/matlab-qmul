@@ -1,5 +1,13 @@
 # Queen Mary MATLAB Tutorials
 
+## Contents
+
+| Session # | Topics  | Link to recorded video session | 
+| ------------- | ------------- | ------------- | 
+| 1 | [Syntax, loops, conditionals, basic functions, intro to graphics](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-basics) | TBC | 
+
+------------------------------------------------
+
 ## Access the code
 
 * [clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine
