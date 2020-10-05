@@ -2,9 +2,9 @@
 
 ## Contents
 
-| Session # | Topics  | Link to recorded video session | 
-| ------------- | ------------- | ------------- | 
-| 1 | [Syntax, loops, conditionals, basic functions, intro to graphics](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-basics) | TBC | 
+| Session # | Topics covered | Presentation | Link to recorded video session | 
+| ------------- | ------------- | ------------- | ------------- | 
+| 1 | [syntax, loops, conditionals, basic functions, intro to graphics](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-basics/session1_powerpoint.pdf) | TBC | 
 
 ------------------------------------------------
 
