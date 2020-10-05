@@ -12,8 +12,8 @@
 
 * [clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine
 * after accessing the sessions folders:
-	* use the *PDF versions* in the `pdf-code` folder for learning
-	* use the *.m files* in the `matlab-code` section to change input parameters
+	* use the **PDF versions** in the `pdf-code` folder for learning
+	* use the **.m files** in the `matlab-code` section to change input parameters
 
 ------------------------------------------------
 
