@@ -1,4 +1,5 @@
 function p = function3(a, b, c)
+
     d = sqrt(b^2 - 4*a*c); % discriminant
         if d<0
             disp('Warning: discriminant is negative, roots are imaginary');
@@ -8,4 +9,5 @@ function p = function3(a, b, c)
             disp('OK: roots are real and distinct');
         end
     p =  (-b + [ -1  +1 ]*d) / (2*a);
+    
 end
