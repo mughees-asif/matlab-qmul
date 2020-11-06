@@ -4,7 +4,7 @@
 
 | Session # | Topics covered | Presentation | Cheat Sheet | 
 | ------------- | ------------- | ------------- | ------------- | 
-| 1 | [syntax, loops, conditionals, basic functions, intro to graphics](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-matlab_basics/session1_powerpoint.pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-matlab_basics/matlab-basic-functions-reference.pdf) | 
+| 1 | [syntax, loops, conditionals, basic functions, intro to graphics](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-matlab_basics/session1_powerpoint.pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
 | 2 | [simulink modelling](https://github.com/mughees-asif/matlab-qmul/tree/master/session2-simulink) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/session2_powerpoint.pdf) | - | 
 
 ------------------------------------------------
