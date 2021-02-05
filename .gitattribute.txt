@@ -1,2 +1,2 @@
-*.* linguist-language=Matlab
-*.htm linguist-detectable=false
+*.* linguist-language=MATLAB
+*.html linguist-detectable=false
