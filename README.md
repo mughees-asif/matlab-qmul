@@ -6,7 +6,7 @@
 | ------------- | ------------- | ------------- | ------------- | 
 | 1 | [MATLAB Introduction](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/session1_powerpoint.pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
 | 2 | [Simulink Modelling](https://github.com/mughees-asif/matlab-qmul/tree/master/session2-simulink_basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/session2_powerpoint.pdf) | [Link](http://blog.bachi.net/?p=5861) | 
-| 3 | [Deep Learning](https://github.com/mughees-asif/matlab-qmul/tree/master/session2-simulink_basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/session2_powerpoint.pdf) | [Link](http://blog.bachi.net/?p=5861) | 
+| 3 | [Deep Learning](https://github.com/mughees-asif/matlab-qmul/tree/master/session2-simulink_basics) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session3-deep_learning/machine-learning-matlab.pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session3-deep_learning/deep-learning-with-matlab-quick-start-guide.pdf) | 
 
 ------------------------------------------------
 
