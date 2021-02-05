@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mugheesasif/">
     <img height=200 src="images/qm-logo.jpg">
-    <img height=200 src="images/Matlab-logo.png">	
+    <img height=200 src="images/Matlab-Logo.png">	
   </a>
 </p>
 
