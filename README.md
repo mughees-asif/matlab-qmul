@@ -1,5 +1,13 @@
 # Queen Mary MATLAB Tutorials
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mugheesasif/">
+    <img height=200 src="images/qm-logo.jpg">
+    <img height=200 src="images/Matlab-logo.png">	
+  </a>
+</p>
+
+
 ## Contents
 
 | Session # | Topics covered | Presentation | Code |Cheat Sheet | 
@@ -12,16 +20,16 @@
 
 ## Access the code
 
-* [clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine
-* after accessing the sessions folders:
-	* use the **PDF versions** for learning
-	* use the **.m files** to change input parameters and work with example code
+* [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine
+* After accessing the sessions folders:
+	* use the **HTML versions** for learning
+	* use the **MATLAB versions** to change input parameters and work with example code
 
 ------------------------------------------------
 
 ## Contributing
 
-* everyone is more than welcome to contribute 
-* for best practices on contributing, use [this](https://gist.github.com/MarcDiethelm/7303312)
+* Everyone is more than welcome to contribute 
+* For best practices on contributing, use [this](https://gist.github.com/MarcDiethelm/7303312)
 
 ------------------------------------------------
