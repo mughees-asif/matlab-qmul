@@ -1,2 +1,0 @@
-# to change language of repo from HTML to MATLAB
-*.html linguist-vendored
