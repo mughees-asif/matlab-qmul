@@ -11,7 +11,7 @@
 
 ### Help 🆘
 
-* [Getting Started with MATLAB](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/getting-started.pdf)
+* [Getting Started with MATLAB](http://www.image.ece.ntua.gr/courses_static/nn/matlab/getstart.pdf)
 * [Naming Conventions](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/naming-conventions.pdf)
 
 ### Sessions 📚
