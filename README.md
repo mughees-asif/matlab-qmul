@@ -8,17 +8,22 @@
 </p>
 
 
-## Contents
+## Contents 🧾
 
-| Session # | Topics covered | Presentation | Code |Cheat Sheet | 
+### Help 🆘
+
+* [Getting Started with MATLAB](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/getting-started.pdf)
+* [Naming Conventions](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/naming-conventions.pdf)
+
+### Sessions 📚
+
+| Session # | Topics covered | Presentation | Code | Cheatsheet | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 1 | [MATLAB Introduction](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/session1_powerpoint.pdf) | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-matlab), [HTML](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
-| 2 | [Simulink Modelling](https://www.mathworks.com/products/simulink.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/session2_powerpoint.pdf) | - | [Link](http://blog.bachi.net/?p=5861) | 
-| 3 | [Deep Learning](https://www.mathworks.com/solutions/deep-learning.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session3-deep_learning/deep-learning-matlab.pdf)  | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session3-deep_learning/code-matlab), [HTML](https://github.com/mughees-asif/matlab-qmul/tree/master/session3-deep_learning/code_html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session3-deep_learning/deep-learning-with-matlab-quick-start-guide.pdf) | 
 
 ------------------------------------------------
 
-## Access the code
+## Access the code 👨‍💻
 
 * [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine
 * After accessing the sessions folders:
@@ -27,9 +32,17 @@
 
 ------------------------------------------------
 
-## Contributing
+## Contributing ⛑
 
-* Everyone is more than welcome to contribute 
-* For best practices on contributing, use [this](https://gist.github.com/MarcDiethelm/7303312)
+##### Pull Request Process 👩‍🔧
+
+* [Github Flow](https://guides.github.com/introduction/flow/index.html): So all `code` changes happen through pull requests:
+	* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo and create your branch from `master`.
+	* If you've added code that should be tested, add tests.
+	* If you've changed APIs, update the documentation.
+	* Ensure the test suite passes.
+	* Make sure your code lints.
+	* Issue that [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)!
+	* Will be reviewed and merged.
 
 ------------------------------------------------
