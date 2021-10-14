@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mugheesasif/">
-    <img height=200 src="images/qm-logo.jpg">
-    <img height=200 src="images/Matlab-Logo.png">	
+    <img height=200 src="assets/images/qm-logo.jpg">
+    <img height=200 src="assets/images/Matlab-Logo.png">	
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 | Session # | Topics covered | Presentation | Code | Cheatsheet | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 1 | [MATLAB Introduction](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/session1_powerpoint.pdf) | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-matlab), [HTML](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
+| 1 | [MATLAB Introduction](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/session1_powerpoint.pdf) | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-matlab) | [HTML](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
 
 ## Access the code 👨‍💻
 
