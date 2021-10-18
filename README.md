@@ -13,7 +13,7 @@
 
 * [Getting Started with MATLAB](http://www.image.ece.ntua.gr/courses_static/nn/matlab/getstart.pdf)
 * [Naming Conventions](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/naming-conventions.pdf)
-* [Functions](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/matlab-basic-functions-reference.pdf)
+* [Functions](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/matlab-basic-functions-reference.pdf)
 
 ### Sessions 📚
 
