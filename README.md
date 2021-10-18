@@ -13,16 +13,20 @@
 
 * [Getting Started with MATLAB](http://www.image.ece.ntua.gr/courses_static/nn/matlab/getstart.pdf)
 * [Naming Conventions](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/naming-conventions.pdf)
+* [Functions](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/assets/matlab-basic-functions-reference.pdf)
 
 ### Sessions 📚
 
 | Session # | Topics covered | Presentation | Code | Cheatsheet | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 1 | [MATLAB Introduction](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/session1_powerpoint.pdf) | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-matlab) --- [HTML](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
+| 1 | [MATLAB Introduction](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/github-release.pdf) | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-matlab) --- [HTML](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
 
 ## Access the code 👨‍💻
 
-* [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine
+* [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine:
+
+`git clone https://github.com/mughees-asif/matlab-qmul.git`
+
 * After accessing the sessions folders:
 	* use the **HTML versions** for learning
 	* use the **MATLAB versions** to change input parameters and work with example code
