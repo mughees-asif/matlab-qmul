@@ -23,9 +23,7 @@
 
 ## Access the code 👨‍💻
 
-* [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine:
-
-`git clone https://github.com/mughees-asif/matlab-qmul.git`
+* [Clone](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) the repository to your local machine: `git clone https://github.com/mughees-asif/matlab-qmul.git`
 
 * After accessing the sessions folders:
 	* use the **HTML versions** for learning
@@ -33,7 +31,7 @@
 
 ## Contributing ⛑
 
-##### Pull Request Process 👩‍🔧
+### Pull Request Process 👩‍🔧
 
 * [Github Flow](https://guides.github.com/introduction/flow/index.html): So all `code` changes happen through pull requests:
 	* [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo and create your branch from `master`.
