@@ -28,7 +28,6 @@
 | Session # | Topics covered | Presentation | Code | Cheatsheet | 
 | -------------: | :------------- | :------------- | :------------- | :------------- | 
 | 1 | [MATLAB Introduction](https://www.mathworks.com/products/matlab.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/github-release.pdf) | [MATLAB](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-matlab) --- [PDF](https://github.com/mughees-asif/matlab-qmul/tree/master/session1-matlab_basics/code-pdf) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session1-matlab_basics/matlab-basic-functions-reference.pdf) | 
-
 | 2 | [Simulink Introduction](https://uk.mathworks.com/products/simulink.html) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/github-release.pdf) | [Bouncing ball example](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/example) | [Link](https://github.com/mughees-asif/matlab-qmul/blob/master/session2-simulink_basics/simulink_cheatsheet.pdf) | 
 
 ## Contributing ⛑
