@@ -1,4 +1,5 @@
 % Create and plot a sphere with radius r.
+
 [x,y,z] = sphere;       % Create a unit sphere.
 r = 2;
 surf(x*r,y*r,z*r)       % Adjust each dimension and plot.
